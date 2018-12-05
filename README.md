@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/jubinmathew1995/jubinmathe
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Projects
+- [FileHide](https://jubinmathew1995.github.io/FileHide/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
